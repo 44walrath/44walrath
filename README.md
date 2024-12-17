@@ -31,11 +31,10 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/44walrath?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    <p align="center">
-     <a href="https://www.instagram.com/fxshbot/" target="_blank">
+     <a href="https://www.instagram.com/fxshbot/">
          <img alt="instagram" title="Check out my Instagram profile" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"/></a> 
-      <a href="https://x.com/fxshbot" target="_blank">
-         <img alt="twitter" title="Check out my Twitter profile" src="[https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge
-         ](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)"/></a> 
+      <a href="https://x.com/fxshbot">
+         <img alt="twitter" title="Check out my Twitter profile" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"/></a> 
       <a href="mailto:44walrath@gmail.com">
          <img alt="gmail" title="Send Me An Email" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"/></a>
    </p>
