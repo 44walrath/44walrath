@@ -5,7 +5,13 @@
 <p align="center">I'm A Indie Game Developer and Content Creator from San Diego, CA</p>
 
 
-<!-- More about me: [portfolio](https://placeholder.com) -->
+<!-- Website -->
+
+<!-- <div align="center">
+  <a href="placeholder" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&label=&color=808080&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website link"/>
+  </a>
+</div> -->
 
 ###
 
@@ -23,6 +29,15 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/44walrath?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/44walrath?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/44walrath?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+   <p align="center">
+     <a href="https://www.instagram.com/fxshbot/" target="_blank">
+         <img alt="instagram" title="Check out my Instagram profile" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"/></a> 
+      <a href="https://x.com/fxshbot" target="_blank">
+         <img alt="twitter" title="Check out my Twitter profile" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge
+         "/></a> 
+      <a href="mailto:44walrath@gmail.com">
+         <img alt="gmail" title="Send Me An Email" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"/></a>
    </p>
 
 ---
@@ -61,8 +76,6 @@
 
 <p align="center">⚙️ My development environment </p>
 
-<!-- > I grew up with Windows and it holds a special place in my heart. It’s my go-to operating system for development, where I make extensive use of the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use PowerShell, which I’ve customized with my own configurations built from and modules scratch, to create a highly efficient and personalized terminal environment. -->
-
 <div class="table-devenvironment">
   <table style="font-size: 11px">
   <tr>
@@ -93,8 +106,8 @@ I love working with Linux, and I'm always exploring new things in the vast open-
 </div>
 
 <!-- Social Links -->
-<!-- <div align="left">
-  <a href="https://www.instagram.com/jakub_zitnik/" target="_blank">
+<div align="left">
+  <!-- <a href="https://www.instagram.com/jakub_zitnik/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:email@jzitnik.dev" target="_blank">
