@@ -15,9 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=44walrath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <p align="center">
-      <a href="https://www.youtube.com/c/fxshbot?sub_confirmation=1">
+     <a href="https://www.youtube.com/@fxshbot?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCG0Ps5VtklbMRJ8kHXuuUVw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fxshbot">
+      <a href="https://www.youtube.com/@fxshbot">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCG0Ps5VtklbMRJ8kHXuuUVw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/44walrath?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/44walrath?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
