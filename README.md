@@ -34,8 +34,8 @@
      <a href="https://www.instagram.com/fxshbot/" target="_blank">
          <img alt="instagram" title="Check out my Instagram profile" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"/></a> 
       <a href="https://x.com/fxshbot" target="_blank">
-         <img alt="twitter" title="Check out my Twitter profile" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge
-         "/></a> 
+         <img alt="twitter" title="Check out my Twitter profile" src="[https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge
+         ](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)"/></a> 
       <a href="mailto:44walrath@gmail.com">
          <img alt="gmail" title="Send Me An Email" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"/></a>
    </p>
